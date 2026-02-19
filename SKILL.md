@@ -4,7 +4,7 @@ description: A practice for emptying the heart-mind to achieve direct receptivit
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3985
+  version: 1.0.3986
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fasting-of-the-mind
